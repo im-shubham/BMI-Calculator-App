@@ -1,4 +1,4 @@
-<h1>BMI Tracker App - Calculate Your BMI ( Hackathon Project )</h1>
+<h1>BMI Tracker App - Calculate Your BMI</h1>
 <b>This App finds the body mass index of a person for a input weight and height. Calculate your BMI and find the BMI weight category for your height.</b><br><br>
 <b>Link to Download the App : https://drive.google.com/file/d/1_Lf4aHJEo3bCXHWzSm_GVy6rcpq2BgJN/view
 <br>
